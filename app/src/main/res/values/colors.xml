@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E64340</color>
+    <color name="colorPrimaryDark">#E64340</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--微信小程序字体颜色-->
+    <color name="wx_sp_text_light">#B2B2B2</color><!--时间戳与表单缺省值 Light 灰色-->
+    <color name="wx_sp_text_gray">#888888</color><!--次要内容 Grey 灰色-->
+    <color name="wx_sp_text_semi">#353535</color><!--大段的说明内容而且属于主要内容用 Semi 黑-->
+    <color name="wx_sp_text_black">#000000</color><!--主内容 Black 黑色-->
+
+    <color name="wx_sp_text_green">#09BB07</color><!--绿色为完成字样色-->
+    <color name="wx_sp_text_blue">#576B95</color><!--蓝色为链接用色-->
+    <color name="wx_sp_text_red">#E64340</color><!--红色为出错用色 Press与 Disable状态分别降低透明度为20%与10%-->
+</resources>
